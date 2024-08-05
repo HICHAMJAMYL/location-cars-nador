@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-.main {
+.main{
     width: 100%;
     background:  url(img/pexels-mikebirdy-120049.jpg);
     background-position: center;
@@ -98,7 +98,7 @@ ul li a:hover {
     background: rgba(233, 201, 18, 0.999);
     border: 2px solid rgba(233, 201, 18, 0.999);
     margin-top:13px;
-    color: blue;
+    color: rgb(255, 0, 0);
     font-size: 15px;
     border-bottom-right-radius: 5px;
 }
